@@ -5,11 +5,11 @@
 }
  @font-face {
      font-family: "gotham bold"; 
-     src: url(../fonts/Gotham_bold.ttf);
+     src: url(./fonts/Gotham_bold.ttf);
  }
  @font-face{
      font-family: "gotham medium";
-     src: url(../fonts/Gotham_normal.ttf);
+     src: url(./fonts/Gotham_normal.ttf);
  }
 
 body{
@@ -22,7 +22,7 @@ body{
     min-width: 200px;
     height: 880px;
     margin: 0 auto;
-    background: url(..//img/asd.png) center top no-repeat;
+    background: url(../img/asd.png) center top no-repeat;
     background-size: cover;
     
     
